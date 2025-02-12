@@ -1,16 +1,24 @@
-## Hi there 👋
+# TheCfU - The Call from Universe 🌌
 
-<!--
+Welcome to **TheCfU**, a community-driven organization built to unite people from around the world through technology, collaboration, and creativity. Our mission is to bring together individuals from all nations to share knowledge, build projects, and create a space where innovation thrives.
 
-**Here are some ideas to get you started:**
+## 🔧 Projects
+We focus on building open-source tools and projects that aim to solve real-world problems. Check out some of our key projects:
+- **Proxy Manager (W.I.P):** A Web-Interface for Nginx Proxy's provided with a FastAPI backend and a Vite + React frontend. (W.I.P)
+- **[Scraparr](https://github.com/thecfu/scraparr):** A Prometheus exporter for the *arr suite, designed to enhance monitoring.
 
-🙋‍♀️ A short introduction - what is your organization all about?
-🌈 Contribution guidelines - how can the community get involved?
-👩‍💻 Useful resources - where can the community find your docs? Is there anything else the community should know?
-🍿 Fun facts - what does your team eat for breakfast?
-🧙 Remember, you can do mighty things with the power of [Markdown](https://docs.github.com/github/writing-on-github/getting-started-with-writing-and-formatting-on-github/basic-writing-and-formatting-syntax)
--->
+## 📢 Join the Community
+We plan to launch a Discord server to provide a friendly environment for discussions, project collaboration, gaming and learning. Stay tuned for more details on how to join us!
 
+## 🌍 How You Can Contribute
+- Explore our projects and contribute via issues or pull requests.
+- Share ideas or start new discussions in our community channels.
+- Help spread our mission of unity through code and community!
+
+## 🚀 Stay Connected  
+- [GitHub](https://github.com/TheCfU)
+
+Let’s build a united, innovative future—together.
 
 ---
 ```
