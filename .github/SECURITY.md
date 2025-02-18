@@ -1,16 +1,8 @@
 # Security Policy
 
-## Supported Versions
-
-The following table indicates which versions are currently receiving security updates:
-
-| Version | Supported          |
-| ------- | ------------------ |
-|    Any    | :x: |
-
 ## Reporting a Vulnerability
 
-To report a vulnerability, please write an email to security@thecfu.de. We strive to respond promptly and make decisions regarding the reported vulnerability.
+To report a vulnerability, please write an email to security@thecfu.de or report it via the Github Security Advisories. We strive to respond promptly and make decisions regarding the reported vulnerability.
 Pls try to describe the Vulnerability as good as you possible can.
 Pls ensure following Informations:
 - Project/Repo
