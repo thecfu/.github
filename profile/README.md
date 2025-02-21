@@ -4,7 +4,8 @@ Welcome to **TheCfU**, a community-driven organization built to unite people fro
 
 ## 🔧 Projects
 We focus on building open-source tools and projects that aim to solve real-world problems. Check out some of our key projects:
-- **Proxy Manager (W.I.P):** A Web-Interface for Nginx Proxy's provided with a FastAPI backend and a Vite + React frontend. (W.I.P)
+- **Proxima (W.I.P):** A Web-Interface for Nginx Proxy's provided with a FastAPI backend and a Vite + React frontend. (W.I.P)
+- **Contanchor (W.I.P):** Provides a Web-Interface for Docker-Container and Project Management. (W.I.P)
 - **[Scraparr](https://github.com/thecfu/scraparr):** A Prometheus exporter for the *arr suite, designed to enhance monitoring.
 
 ## 📢 Join the Community
