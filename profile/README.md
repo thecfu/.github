@@ -16,7 +16,7 @@ We focus on building open-source tools and projects that aim to solve real-world
 
 ## 📢 Join the Community
 
-We now have a [Discord server](https://discord.gg/xpNVV6SuKE) where you can connect with others, discuss projects, collaborate, and just hang out!
+We now have a [Discord server](https://discord.gg/z54hWyGcam) where you can connect with others, discuss projects, collaborate, and just hang out!
 
 > 🚀 **Note:** The server is still in its early stages, and we are actively looking for new members and people who want to help grow the community and join the team. Everyone is welcome!
 
@@ -29,7 +29,7 @@ We now have a [Discord server](https://discord.gg/xpNVV6SuKE) where you can conn
 ## 🚀 Stay Connected
 
 * [GitHub](https://github.com/TheCfU)
-* [Discord](https://discord.gg/xpNVV6SuKE)
+* [Discord](https://discord.gg/z54hWyGcam)
 
 Let’s build a united, innovative future—together.
 
