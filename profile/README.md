@@ -1,7 +1,3 @@
-Here’s the updated version of your README with the Discord info and note about recruiting:
-
----
-
 # TheCfU - The Call from Universe 🌌
 
 Welcome to **TheCfU**, a community-driven organization built to unite people from around the world through technology, collaboration, and creativity. Our mission is to bring together individuals from all nations to share knowledge, build projects, and create a space where innovation thrives.
